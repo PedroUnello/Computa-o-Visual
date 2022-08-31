@@ -1,0 +1,15 @@
+# Aplicações da Computação Visual
+
+Tendo ideia do que é Computação Visual, fora feita uma pesquisa sobre as aplicações da mesma, assim, dando enfoque nas subáreas da computação visual apresentadas em aula, fora dado como desfecho o que segue abaixo,
+
+* 
+* *
+
+* No quesito de Computação Gráfica, na vigência da pesquisa feita, a aplicação escolhida foi a Arte computacional, aonde se compreende ao uso do computador como ponto central da produção e/ou exibição de arte. Dando enfoque no 3ds Max (https://www.autodesk.com.br/products/3ds-max/overview?term=1-YEAR&tab=subscription), software da Autodesk para modelagem 3D, animação, sequênciando imagens renderizadas pelo computador e renderição das imagens e animações como dito, tal software é utilizado como ferramenta na criação de jogos, filmes, animações e outras necessidades de ilustração por diversas áreas de conhecimento e veiculação de informações, como marketing, processos de engenharia, educação em ensino superior e até medicida, com animações explicativas ilustrando processos. Isso se dá visto a versatilidade da ferramenta, que, quando dominada, pode suficientemente sustentar o usuário a compor modelos realistas pelas ferramentas avançadas de modelagem, como também propiciar posteriormente fluxos de trabalho para animação que são sucintos e facilitados, assim resultando em renderizações de alta qualidade como produtos finais, tal como animatic e/ou conceitos visuais para produção final, além é claro, que pelo disperso uso do programa, existe comunidade ativa e uma infinidade de possibilidades para aprender a ferramenta.
+* * Já para escolha desta aplicação, foi fatorado que em tempos contemporâneos a CG é altamente conhecida por produtos como filmes, jogos e arte computacional, assim foi de fácil escolha, e fácil de ser achado, à presença de exemplos de aplicações de Computação Gráfica que sustentem a criação dos produtos anteriormente falados, assim, primáriamente, o exemplo mais comumente listado nas pesquisa sobre Computação Gráfica foi, ao meu ver, o mais sucinto de ser listado aqui. 
+
+* Para a visão computacional porém, dentre os resultados achados, foi de maior interesse por mim discorrer sobre aplicação em Defect Detection, especialmente naquilo que fora engendrado pela empresa ATRIA Innovation, aonde, como pode ser visto em https://www.atriainnovation.com/en/5-detection-application-with-computer-vision/ , é disposto uma combinação de visão computacional e deep learning que pode reconhecer defeitos em lotes de permitindo à que se corrija o problema, ou ao menos, apare do produto final, evitando problemas ao destino da produção, assim, utilizando apenas as técnicas de reconhecimento da visão computacional, com as técnicas de machine learning, agregados a imagens das unidades, resolva impecilhos antes deste criar mais.
+* * A escolha desta em especificidade foi baseada no fato de a majoritario parcela dos resultados em aplicações para visão computacional são permeadas em reconhecimento de problemas ou padrões extrínseco e estranhos ao que se busca observar, assim, na similaridade das opções, Defect Detection, como fora apresentado, apeteceu mais.
+
+
+

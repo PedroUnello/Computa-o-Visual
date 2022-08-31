@@ -1,15 +1,29 @@
 # Aplicações da Computação Visual
-
 Tendo ideia do que é Computação Visual, fora feita uma pesquisa sobre as aplicações da mesma, assim, dando enfoque nas subáreas da computação visual apresentadas em aula, fora dado como desfecho o que segue abaixo,
 
-* 
-* *
+## Processamento de Imagens
+
+* Começando pelo processamento de imagens, dentre o que foi procurado, uma aplicação que foi escolhida para ilustrar a subárea da Computação Visual foram as ferramentas de análise de imagens da área médica ou apenas processamento de imagens médicas, tal que abrange o uso de imagens comumente retiradas de tomografias e ressonâncias magnéticas em um processamento que segmenta áreas de interesse anatômico a desejo do pesquisador/médico, além de poder identificar tais áreas da anatomia, em vezes automáticamente, combinar ou simular a presença ou ação de um implantes e operações médicas no local, quantificar e analisar dados contemplados nas imagens e concomitantemente da anatomia do paciênte em que fora originada a imagem, reduzir artefatos, erros e ruídos das imagens, e até proporcionar os dados obtidos nos anteriores e ademais metodologias para uso em estudo, design de implantes ou recriação das regiões anátomicas segmentadas. A exemplo da aplicação discorrida pode-se inferir o software ITK-SNAP (http://www.itksnap.org/pmwiki/pmwiki.php), que, correlacionado ao que foi citado anteriormente, enfoca na segmentação da imagem por áreas anatômicas, porém também permitindo a navegação pelos produtos criados no uso da aplicação, tudo enquanto propõe um uso facilitado para não depreciar a utilidade da mesma para médicos sem experiência em aspectos computacionais. Por fim, o programa citado já sustentou, em sua aplicação, a segmentação da artéria carótida, análise da ressonância magnética de difusão, realidade virtual na medicina, morfometria cerebral, estudos anatômicos e analise do estado pré-natal e diagnóstico da Espinha bífida, entre outros.   
+  - Em relação a escolha feita, o que pode-se citar como motivo que sustentou tal escolha, foi a possibilidade e feito da aplicação de abranger e combinar multiplas escolásticas e áreas de conhecimento a sustento do processamento de imagens, para compor, permitir e engendrar pesquisas e descobertas, não só para a área médica em geral, porém também para os paciêntes em que os exames de tomografias e ressonância magnéticas se originaram, assim na multiplicidade de conhecimentos médicos, de computação visual (especialmente do processamento de imagens), e em casos do machine learning (para automatização dos processos outrora citados), gerando mais conhecimento, em retrocesso, para as áreas citadas. 
+
+![](http://www.itksnap.org/pmwiki/uploads/Main/Image1.png)
+<br>
+_Janela do software ITK-SNAP, retirado do site do mesmo http://www.itksnap.org/pmwiki/pmwiki.php_
+
+## Computação Gráfica
 
 * No quesito de Computação Gráfica, na vigência da pesquisa feita, a aplicação escolhida foi a Arte computacional, aonde se compreende ao uso do computador como ponto central da produção e/ou exibição de arte. Dando enfoque no 3ds Max (https://www.autodesk.com.br/products/3ds-max/overview?term=1-YEAR&tab=subscription), software da Autodesk para modelagem 3D, animação, sequênciando imagens renderizadas pelo computador e renderição das imagens e animações como dito, tal software é utilizado como ferramenta na criação de jogos, filmes, animações e outras necessidades de ilustração por diversas áreas de conhecimento e veiculação de informações, como marketing, processos de engenharia, educação em ensino superior e até medicida, com animações explicativas ilustrando processos. Isso se dá visto a versatilidade da ferramenta, que, quando dominada, pode suficientemente sustentar o usuário a compor modelos realistas pelas ferramentas avançadas de modelagem, como também propiciar posteriormente fluxos de trabalho para animação que são sucintos e facilitados, assim resultando em renderizações de alta qualidade como produtos finais, tal como animatic e/ou conceitos visuais para produção final, além é claro, que pelo disperso uso do programa, existe comunidade ativa e uma infinidade de possibilidades para aprender a ferramenta.
-* * Já para escolha desta aplicação, foi fatorado que em tempos contemporâneos a CG é altamente conhecida por produtos como filmes, jogos e arte computacional, assim foi de fácil escolha, e fácil de ser achado, à presença de exemplos de aplicações de Computação Gráfica que sustentem a criação dos produtos anteriormente falados, assim, primáriamente, o exemplo mais comumente listado nas pesquisa sobre Computação Gráfica foi, ao meu ver, o mais sucinto de ser listado aqui. 
+  - Já para escolha desta aplicação, foi fatorado que em tempos contemporâneos a CG é altamente conhecida por produtos como filmes, jogos e arte computacional, assim foi de fácil escolha, e fácil de ser achado, à presença de exemplos de aplicações de Computação Gráfica que sustentem a criação dos produtos anteriormente falados, assim, primáriamente, o exemplo mais comumente listado nas pesquisa sobre Computação Gráfica foi, ao meu ver, o mais sucinto de ser listado aqui. 
+
+![](https://gdm-catalog-fmapi-prod.imgix.net/ProductScreenshot/048d4e8d-59da-4fcf-80fe-7ec91adb1d93.png?auto=format&q=50)
+<br>
+_Screenshot do uso do programa 3ds Max, retirado de https://www.softwareadvice.pt/software/225490/3ds-max_
+
+## Visão Computacional
 
 * Para a visão computacional porém, dentre os resultados achados, foi de maior interesse por mim discorrer sobre aplicação em Defect Detection, especialmente naquilo que fora engendrado pela empresa ATRIA Innovation, aonde, como pode ser visto em https://www.atriainnovation.com/en/5-detection-application-with-computer-vision/ , é disposto uma combinação de visão computacional e deep learning que pode reconhecer defeitos em lotes de permitindo à que se corrija o problema, ou ao menos, apare do produto final, evitando problemas ao destino da produção, assim, utilizando apenas as técnicas de reconhecimento da visão computacional, com as técnicas de machine learning, agregados a imagens das unidades, resolva impecilhos antes deste criar mais.
-* * A escolha desta em especificidade foi baseada no fato de a majoritario parcela dos resultados em aplicações para visão computacional são permeadas em reconhecimento de problemas ou padrões extrínseco e estranhos ao que se busca observar, assim, na similaridade das opções, Defect Detection, como fora apresentado, apeteceu mais.
-
-
-
+  - A escolha desta em especificidade foi baseada no fato de a majoritario parcela dos resultados em aplicações para visão computacional são permeadas em reconhecimento de problemas ou padrões extrínseco e estranhos ao que se busca observar, pela natureza da subárea que visa extrair informações úteis a partir de imagens dadas, assim, na similaridade das opções, Defect Detection, como fora apresentado, apeteceu mais.
+  
+![](https://www.atriainnovation.com/wp-content/uploads/2021/04/3.jpg.webp)
+<br>
+_Imagem retirada do site da ATRIA Innovation https://www.atriainnovation.com/en/5-detection-application-with-computer-vision/_
